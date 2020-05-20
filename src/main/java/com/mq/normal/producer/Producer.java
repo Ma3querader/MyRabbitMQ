@@ -1,4 +1,4 @@
-package com.mq.producer;
+package com.mq.normal.producer;
 
 import com.mq.util.ConnectionUtil;
 import com.rabbitmq.client.Channel;
